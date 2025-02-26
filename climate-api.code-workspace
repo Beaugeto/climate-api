@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+172.20.10.7/home/beau/climate-api"
+		}
+	],
+	"remoteAuthority": "ssh-remote+172.20.10.7",
+	"settings": {}
+}
